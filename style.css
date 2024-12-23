@@ -1,0 +1,24 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Latin Modern Sans';
+}
+
+.container {
+    margin: auto;
+    width: 50%;
+}
+
+.navbar a {
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+.navbar a.active {
+    color: grey;
+}
+
+embed {
+    height: 28em;
+    width: 100%;
+}
